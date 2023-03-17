@@ -9,3 +9,5 @@ export default function App() {
     </div>
   );
 }
+//codesandbox 
+//https://codesandbox.io/s/40s9zk?file=/src/ProgressBar2.tsx
